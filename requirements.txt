@@ -1,0 +1,12 @@
+python-dotenv
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+flask
+requests
+pymongo
+certifi
+
+-e .
