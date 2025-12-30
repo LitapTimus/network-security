@@ -6,7 +6,11 @@ matplotlib
 seaborn
 flask
 requests
+pymongo[srv]==3.6
 pymongo
 certifi
-
+dill
+pyaml
+mlflow
+dagshub
 ## -e .
