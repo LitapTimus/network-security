@@ -3,10 +3,10 @@ pandas
 numpy
 certifi
 scikit-learn
-pyyaml
 fastapi
 uvicorn[standard]
 pymongo>=4.3.3
 python-multipart
-jinja
+jinja2
+
 ## -e .
