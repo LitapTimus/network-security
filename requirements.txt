@@ -1,18 +1,12 @@
 python-dotenv
 pandas
 numpy
-scikit-learn
-matplotlib
-seaborn
-flask
-requests
-pymongo[srv]==3.6
-pymongo
 certifi
-dill
-pyaml
-mlflow
-dagshub
+scikit-learn
+pyyaml
 fastapi
-uvicorn
+uvicorn[standard]
+pymongo>=4.3.3
+python-multipart
+
 ## -e .
