@@ -50,6 +50,7 @@ logs/
 *.log
 outputs/
 results/
+prediction_output/
 
 # =========================
 # Experiment Tracking
